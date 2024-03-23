@@ -22,7 +22,8 @@ title: Your awesome title
 description: >- # this means to ignore newlines until "baseurl:"
   いつまでも初心を忘れない、一歩一歩技術者としてレベルアップをしていくための備忘録
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/Pokkuru/pokkuru.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "pokkuru.github.io"
+url: "https://pokkuru.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Pokkuru_alps
 github_username:  Pokkuru
 
